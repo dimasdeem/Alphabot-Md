@@ -28,10 +28,10 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ HαckͥDeͣeͫm ×፝֟͜×" //nama kalian
-global.myweb ="https://menu-gabut.ml" //bebas asal jan hapus
+global.myweb ="" //bebas asal jan hapus
 global.youtube = "https://youtube.com/" //bebas asal jan hapus
-global.myweb2 = "" //bebas
-global.email = "" //bebas
+global.myweb2 = "https://menu-gabut.ml" //bebas
+global.email = "hackdeem06@outlook.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285156581890'] //premium user
