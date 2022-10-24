@@ -14,7 +14,7 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = true 
+global.autobio = false 
 global.userRegister = false 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
@@ -31,7 +31,7 @@ global.ownername= "ᴹᴿ᭄ HαckͥDeͣeͫm ×፝֟͜×" //nama kalian
 global.myweb ="https://menu-gabut.ml" //bebas asal jan hapus
 global.youtube = "https://youtube.com/" //bebas asal jan hapus
 global.myweb2 = "" //bebas
-global.email = "gesinobru@gmail.com" //bebas
+global.email = "" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285156581890'] //premium user
