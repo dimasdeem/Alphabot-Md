@@ -1775,11 +1775,6 @@ exports.tos = (ownernomer) => {
 *-------「 DONATE 」 -------*
 
 Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
-Berapapun donasi kalian akan sangat berarti 👍
-Buat kalian yang sudah donasi bisa kirim bukti
-donasi ke owner agar bisa di masukkan ke list donasi
 
 Thanks!
 
@@ -2430,13 +2425,6 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
-│○ Fatih A.
-│○ Ferdi
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ Rashid
-│○ ZeeoneOfc
 │○ Penyedia Module
 ╰❒ And All Support
 `
