@@ -14,7 +14,7 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = false 
+global.autobio = true 
 global.userRegister = true 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
@@ -34,8 +34,8 @@ global.myweb2 = "https://menu-gabut.ml" //bebas
 global.email = "hackdeem06@outlook.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285156581890'] //premium user
-global.owner = ["6285156581890"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6285156581890','6285860123791'] //premium user
+global.owner = ["6285156581890","6285860123791"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285156581890" // nomor wa kalian
 global.ownernomerr = "+6285156581890" //nmr wa kalian
 global.thumbnail = "./image/whatsapp.png" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
