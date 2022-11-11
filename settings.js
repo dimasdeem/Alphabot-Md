@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
+global.botname = "Hⱥck𝓓eeᴍ-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ HαckͥDeͣeͫm ×፝֟͜×" //nama kalian
 global.myweb ="" //bebas asal jan hapus
 global.youtube = "https://youtube.com/" //bebas asal jan hapus
@@ -42,8 +42,8 @@ global.thumbnail = "./image/whatsapp.png" // ini lol.jpg adalah nama foto di fol
 global.donasi = "./image/seren.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh HαckͥDeͣeͫm' //sticker wm ganti nama kalian
+global.packname = '© Hⱥck𝓓eeᴍ-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh ᴹᴿ᭄ HαckͥDeͣeͫm ×፝֟͜×' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
